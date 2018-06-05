@@ -1,0 +1,7 @@
+@include /opt/smokeping/etc/config.d/General
+@include /opt/smokeping/etc/config.d/Alerts
+@include /opt/smokeping/etc/config.d/Database
+@include /opt/smokeping/etc/config.d/Presentation
+@include /opt/smokeping/etc/config.d/Probes
+@include /opt/smokeping/etc/config.d/Slaves
+@include /opt/smokeping/etc/config.d/Targets
